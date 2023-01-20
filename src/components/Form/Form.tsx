@@ -1,7 +1,7 @@
 export const Form: React.FC = () => {
   return (
     <form className="form">
-      <h1 className="form__title">Auth Form</h1>
+      <h1 className="form__title">Auth Form</h1> 
 
       <input
         className="form__field"
